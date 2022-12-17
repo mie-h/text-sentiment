@@ -7,7 +7,7 @@ import nltk
 from nltk.stem import WordNetLemmatizer
 
 
-openai.api_key='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'
+openai.api_key='<YOUR KEY>'
 
 
 DATASET_COLUMNS  = ["sentiment", "ids", "date", "flag", "user", "text"]
